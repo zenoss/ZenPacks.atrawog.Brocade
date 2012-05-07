@@ -5,7 +5,7 @@
 NAME = "ZenPacks.atrawog.Brocade"
 VERSION = "1.3"
 AUTHOR = "Andreas Trawoeger"
-LICENSE = ""
+LICENSE = "GPLv2"
 NAMESPACE_PACKAGES = ['ZenPacks', 'ZenPacks.atrawog']
 PACKAGES = ['ZenPacks', 'ZenPacks.atrawog', 'ZenPacks.atrawog.Brocade']
 INSTALL_REQUIRES = []
